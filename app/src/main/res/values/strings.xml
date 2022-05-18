@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RxJavaPractice</string>
+    <string name="exercise_one_label">Exercise One</string>
+    <string name="exercise_two_label">Exercise Two</string>
+    <string name="exercise_three_label">Exercise Three</string>
+    <string name="subscription_label">Subscription</string>
+    <string name="open_activity_label">Open Activity</string>
+    <string name="hello_rxjava_text">Hello RxJava!</string>
+    <string name="second_rxjava_activity_text">Second RxJava Activity</string>
 </resources>
